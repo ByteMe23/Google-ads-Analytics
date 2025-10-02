@@ -20,8 +20,6 @@ This project mimics an enterprise-level ETL (Extract, Transform, Load) and BI (B
 - [🧩 Power BI Data Model View](#-power-bi-data-model-view)
 - [⚙ How to Use This Project](#-how-to-use-this-project)
 - [📂 Repository Structure](#-repository-structure)
-- [📝 License](#-license)
-- [📬 About Me](#-about-me)
 
 ---
 
