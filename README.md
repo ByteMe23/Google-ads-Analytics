@@ -1,9 +1,4 @@
-# Adword-Data-Analysis
-
-[![Python Version](https://img.shields.io/badge/Python-3.9-blue)](https://www.python.org/)
-[![MySQL](https://img.shields.io/badge/Database-MySQL-informational)](https://www.mysql.com/)
-[![Power BI](https://img.shields.io/badge/Visualization-Power_BI-yellow)](https://www.microsoft.com/en-us/power-platform/products/power-bi)
-[![License](https://img.shields.io/badge/License-MIT-blue)](https://github.com/AdityakumarDA/Adword-Data-Analysis/tree/main?tab=MIT-1-ov-file)
+# End-to-End Google Ads Marketing Analytics
 
 A complete, real-world AdWords Data Analysis pipeline from raw Excel to fully interactive dashboards using **Excel**, **Python (pandas)**, **MySQL**, and **Power BI**.
 
@@ -314,7 +309,7 @@ To enable seamless slicing and aggregation, a clean star schema was created in P
 
 ### 🔹 1. Clone the Repo
 ```bash
-git clone https://github.com/AdityakumarDA/Adword-Data-Analysis.git
+git clone https://github.com/ByteMe23/Google-ads-Analytics.git
 ```
 
 ### 🔹 2. Open Excel Files
@@ -352,29 +347,12 @@ git clone https://github.com/AdityakumarDA/Adword-Data-Analysis.git
  ┃ ┣ 📷 EER_Diagram.png
  ┃ ┣ 📷 power_bi_dashboard.png
  ┃ ┗ 📷 powerbi_data_model.png
- ┣ 📄 LICENSE
  ┗ 📄 README.md
 ```
 
 ---
 
-## 📝 License
-
-This project is licensed under the **MIT License** — you are free to use, modify, and share with attribution.
-
----
-
-## 📬 About Me
-
-I'm **Aditya Rajput**, a data analyst passionate about storytelling with data, unsupervised learning, and real-world analytics.
-
-- [LinkedIn](https://www.linkedin.com/in/adityakumarda/)  
-- [GitHub](https://github.com/AdityakumarDA)  
-- [Tableau Public](https://public.tableau.com/app/profile/adityakumarda)
-
 If you liked this project, please ⭐ the repo!
 
 ---
 
-> 📌 _If you're a recruiter: This demonstrates strong knowledge in data pipelines, transformation, relational modeling, and BI reporting._  
-> 📌 _If you're a student: Feel free to use this structure to learn data integration and dashboarding step by step._
